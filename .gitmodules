@@ -1,0 +1,3 @@
+[submodule "backendFoodApp"]
+	path = backendFoodApp
+	url = https://git.fhict.nl/I476421/foodapp.git
